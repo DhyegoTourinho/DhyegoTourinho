@@ -4,9 +4,10 @@ Olá eu sou DhyegoTourinho
 -  Atualmente aprendendo C#.
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DhyegoTourinho&show_icons=true&count_private=true&hide_border=true&title_color=C70039&icon_color=C70039&text_color=C70039&bg_color=808080" alt="Dhyego Tourinho Silva" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyegoTourinho&layout=compact&hide_border=true&title_color=C70039&text_color=C70039&bg_color=0d1117" />
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 </div>
