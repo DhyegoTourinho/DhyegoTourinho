@@ -1,6 +1,6 @@
-Olá eu sou DhyegoTourinho
+Olá, me chamo Dhyego Tourinho
 
--  Estou estudando diversificadas àreas da programação.
+-  Estou estudando Sistemas de informação pela faculdade federal de Goiás (UFG).
 -  Atualmente aprendendo C#.
 
 
