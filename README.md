@@ -1,4 +1,3 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581845&height=120&section=header"/>
 Olá eu sou DhyegoTourinho
 
 -  Estou estudando diversificadas àreas da programação.
