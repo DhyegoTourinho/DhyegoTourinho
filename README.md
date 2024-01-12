@@ -1,9 +1,8 @@
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581845&height=120&section=header"/>
 Olá eu sou DhyegoTourinho
 
 -  Estou estudando diversificadas àreas da programação.
 -  Atualmente aprendendo C#.
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581845&height=120&section=header"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
