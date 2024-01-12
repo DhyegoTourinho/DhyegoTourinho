@@ -22,4 +22,4 @@ Olá eu sou DhyegoTourinho
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581845&height=120&section=header"/>
