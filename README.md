@@ -9,7 +9,8 @@ Olá, me chamo Dhyego Tourinho
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyegoTourinho&layout=compact&langs_count=16&theme=great-gatsby"/>
   
 </div>
-
+  <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
