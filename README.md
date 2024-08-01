@@ -1,7 +1,7 @@
 Olá, me chamo Dhyego Tourinho
 
 -  📚 Estou estudando Sistemas de informação pela faculdade federal de Goiás (UFG).
--  ✍️ Atualmente aprendendo C#.
+-  ✍️ Atualmente aprendendo .NET.
 
 
 <div>
