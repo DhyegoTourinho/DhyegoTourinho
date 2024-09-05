@@ -1,19 +1,21 @@
 Olá, me chamo Dhyego Tourinho
 
 -  📚 Estou estudando Sistemas de informação pela faculdade federal de Goiás (UFG).
--  ✍️ Avançando nos conhecimentos Full Stack.
+-  ✍️ Avançando nos conhecimentos Qualidade de software.
 
 
-<div style="display:inline-block">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DhyegoTourinho&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dhyego's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyegoTourinho&layout=compact&theme=dark&hide_border=true" /></a>
+<div style="text-align: center;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhyegoTourinho&hide_title=true&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&hide=issues&line_height=25" />
+  <img layout=compact src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyegoTourinho&layout=compact&langs_count=4&line_height=20&card_width=100&include_all_commits=true&theme=gotham"/>
 </div>
+
 <div> 
 
 ##
  
 </div>
-<div style="display:inline-block">
-  <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div style="display:flex;" align="center">
+  <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="DhyegoTourinho" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
