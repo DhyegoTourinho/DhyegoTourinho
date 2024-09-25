@@ -6,7 +6,6 @@ Olá, me chamo Dhyego Tourinho
 
 <div style="text-align: center;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhyegoTourinho&hide_title=true&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&hide=issues&line_height=25" />
-  <img layout=compact src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyegoTourinho&layout=compact&langs_count=4&line_height=20&card_width=100&include_all_commits=true&theme=gotham"/>
 </div>
 
 <div> 
